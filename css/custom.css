@@ -15,3 +15,7 @@ ul.basic li{
 .customImg{
 	float: left;
 }
+
+#logo{
+	display: block;
+}
