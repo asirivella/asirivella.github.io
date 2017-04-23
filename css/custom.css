@@ -1,0 +1,17 @@
+ul.basic{
+	list-style-type: disc;
+	list-style-position: outside;
+}
+
+ul.basic li{
+	border-bottom: none;
+	margin-bottom: 0;
+}
+
+.remMargin{
+	margin-bottom: 5px;
+}
+
+.customImg{
+	float: left;
+}
